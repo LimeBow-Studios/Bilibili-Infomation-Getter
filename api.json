@@ -1,0 +1,3 @@
+{
+    "video_api": "https://api.bilibili.com/x/web-interface/view?bvid={1}"
+}
